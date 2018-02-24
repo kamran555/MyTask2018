@@ -1,0 +1,24 @@
+
+.main {
+	background-color:#F2F2F2;
+}
+
+input, select {
+		border:none;
+		font-size:20px;
+		margin:0px;
+	}
+	.color{
+ 	background-color:white;
+ 	border-radius:3px;
+ 	padding-right:5px;
+ 	margin:10px 0px;
+ }
+
+
+@import 'InformationPersonal';
+@import 'PaymentsDetail';
+
+
+
+
